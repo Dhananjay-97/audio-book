@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+docx
+epub
+ebooklib
+gtts
